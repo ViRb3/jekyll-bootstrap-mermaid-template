@@ -4,3 +4,17 @@
 
 layout: home
 ---
+#### Markdown
+```python
+message = "Hello world"
+print(message)
+```
+
+#### Mermaid
+<div class="mermaid">
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+</div>
